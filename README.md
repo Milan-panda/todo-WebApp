@@ -44,7 +44,7 @@ Start the server
 
 ## Tech Stack
 
-**Client:** Bootstrap 5
+**Client:** HTML, Bootstrap 5
 
 **Server:** Django
 
