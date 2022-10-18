@@ -1,0 +1,1 @@
+In my opnion, Django is much more easy and vast framework as compared to Flask. Django community is very vast like whenever I faced any issue during creating both the projects for Django almost every solution found. Thats all about my opinion.
