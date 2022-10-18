@@ -51,7 +51,7 @@ def signup(request):
         }
         if form.is_valid():
             user = form.save()
-            print(user)
+            # print(user)
             if user is not None:
                 return redirect('login')
         else:
