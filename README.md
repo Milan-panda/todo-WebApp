@@ -42,7 +42,6 @@ Start the server
  [@Milan-panda](https://github.com/Milan-panda)
 
 
-https://github.com/Milan-panda/todo-WebApp/assets/52502464/8834bebc-5507-47d2-b2ef-b76459bcd2b3
 
 
 
